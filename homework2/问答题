@@ -1,0 +1,42 @@
+第1题
+1. Substrate官方文档网址是什么
+https://substrate.dev/
+
+
+2. SubStrate的recipe网址是什么
+https://substrate.dev/recipes/
+
+3. Substrate的rust docs的网址是什么
+https://substrate.dev/rustdocs/v2.0.0/sc_service/index.html
+
+4. Substrate的tutorial的网址是什么
+https://substrate.dev/en/tutorials
+
+5. Substrate Seminar在每周几进行
+Tuesday at 14:00UTC
+
+第2题
+github的基本操作，养成良好的开源社区开发习惯
+start和watch substrate和polkadot的repo，并截屏
+
+第3题
+请编译第一节课中的node-template并截图编译成功的截图
+
+
+第4题
+请运行node-template节点并截图
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
